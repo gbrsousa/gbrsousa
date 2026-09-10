@@ -40,12 +40,12 @@
 ### 📊 Painel & Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gbrsousa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gbrsousa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gbrsousa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gbrsousa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
   
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrsousa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrsousa&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak Stats" />
 </div>
 
 ### 👾 Snake Game nas Contribuições
