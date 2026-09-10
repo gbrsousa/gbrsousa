@@ -27,9 +27,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-light
-
+            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#1e1f22,#0e4429,#006d32,#26a641,#39d353
       # Faz o deploy do SVG gerado para a branch 'output'
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
